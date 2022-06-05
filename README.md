@@ -1,2 +1,3 @@
-# heartchain
-An Ethereum smart contract to send some love
+#heartchain
+This project is now owned by @mylocyrus the one and only Madonna Miley Cyrus Protoje
+
