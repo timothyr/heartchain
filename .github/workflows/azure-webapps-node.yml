@@ -31,7 +31,7 @@ env:
 permissions:
   contents: read
 
-jobs:
+jobs: lock
   build:
     runs-on: ubuntu-latest
     steps:
